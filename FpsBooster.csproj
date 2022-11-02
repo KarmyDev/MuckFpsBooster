@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net4.7.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<Reference Include="BepInEx"><HintPath>Libraries/BepInEx.dll</HintPath></Reference>
+	<Reference Include="0Harmony"><HintPath>Libraries/0Harmony.dll</HintPath></Reference>
+	<Reference Include="UnityEngine"><HintPath>Libraries/UnityEngine.dll</HintPath></Reference>
+	<Reference Include="UnityEngine.CoreModule"><HintPath>Libraries/UnityEngine.CoreModule.dll</HintPath></Reference>
+	<Reference Include="Assembly-CSharp"><HintPath>Libraries/Assembly-CSharp.dll</HintPath></Reference>
+	<Reference Include="Unity.Postprocessing.Runtime"><HintPath>Libraries/Unity.Postprocessing.Runtime.dll</HintPath></Reference>
+	<Reference Include="MuckSettings"><HintPath>Libraries/MuckSettings.dll</HintPath></Reference>
+  </ItemGroup>
+
+</Project>

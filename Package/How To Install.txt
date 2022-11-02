@@ -1,0 +1,7 @@
+1. Move the FpsBooster.dll to the BepInEx plugins folder.
+2. Run modded Muck.
+3. In the Settings, in the Graphics tab you should see two new options:
+	one of them being "Render Distance",
+	and second called "Enable Post Processing"
+
+For the best performance set Render distance to 250 (default is 3000) and disable post processing.
