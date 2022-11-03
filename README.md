@@ -2,7 +2,7 @@
 A mod for Muck that rovides settings to change rendering distance and disable post-processing, particles and world mesh shadows, which greatly improves performance on low-end devices.
 
 ### [Support me! ❤️ ☕ (Ko-Fi)](https://ko-fi.com/karmy)
-[[FpsBooster thunderstore page link]]()
+[[FpsBooster thunderstore page link]](https://muck.thunderstore.io/package/KarmyDev/FpsBooster/)
 
 # Building from source
 This mod requires serveral libraries that it depends on.<br>
