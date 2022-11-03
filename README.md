@@ -1,5 +1,5 @@
-# Muck FPS [booster]
-A mod for Muck that provides settings to change rendering distance and disable post-processing, which greatly improves performance on low-end devices.
+# Muck FPS [booster] v1.2.0
+A mod for Muck that rovides settings to change rendering distance and disable post-processing, particles and world mesh shadows, which greatly improves performance on low-end devices.
 
 ### [Support me! ❤️ ☕ (Ko-Fi)](https://ko-fi.com/karmy)
 [[FpsBooster thunderstore page link]]()

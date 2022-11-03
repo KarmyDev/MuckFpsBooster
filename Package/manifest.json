@@ -1,8 +1,8 @@
 {
     "name": "FpsBooster",
-    "version_number": "1.0.0",
+    "version_number": "1.2.0",
     "website_url": "https://github.com/KarmyDev/MuckFpsBooster",
-    "description": "Provides settings to change rendering distance and disable post-processing, which greatly improves performance on low-end devices.",
+    "description": "Provides settings to change rendering distance and disable post-processing, particles and world mesh shadows, which greatly improves performance on low-end devices.",
     "dependencies": [
 		"BepInEx-BepInExPack_Muck-5.4.1101",
 		"Terrain-SettingsApi-1.1.1"
